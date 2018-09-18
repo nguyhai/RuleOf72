@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RuleOf72", "RuleOf72\RuleOf72.vbproj", "{7C972130-4565-4DD0-8328-0FEB1DDC5F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C972130-4565-4DD0-8328-0FEB1DDC5F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C972130-4565-4DD0-8328-0FEB1DDC5F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C972130-4565-4DD0-8328-0FEB1DDC5F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C972130-4565-4DD0-8328-0FEB1DDC5F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35FD7E81-F870-492A-BDF5-84C6A5DF0D83}
+	EndGlobalSection
+EndGlobal
